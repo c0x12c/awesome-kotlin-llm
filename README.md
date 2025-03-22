@@ -19,3 +19,5 @@ Let’s put Kotlin on the AI map! 💜🤖
 ## MCP 
 - [kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
 
+## Agent builder
+- [langgraph4j](https://github.com/bsorrentino/langgraph4j) - Java version of [Langgraph](https://www.langchain.com/langgraph) which is built for work with [langchain4j](https://github.com/langchain4j/langchain4j)
