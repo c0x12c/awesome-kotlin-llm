@@ -11,6 +11,9 @@ Let’s put Kotlin on the AI map! 💜🤖
 
 ## General LLM 
 - [langchain4j](https://github.com/langchain4j/langchain4j) - Java version of Langchain
+
+## LLM Provider API
+- [openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
   
 ## MCP 
 - [kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
