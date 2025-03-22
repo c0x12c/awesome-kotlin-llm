@@ -14,6 +14,7 @@ Let’s put Kotlin on the AI map! 💜🤖
 
 ## LLM Provider API
 - [openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
+- [anthropic-sdk-java](https://github.com/anthropics/anthropic-sdk-java) - The Anthropic Java SDK is currently in beta. If you see any issues with it, please file an issue on GitHub!
   
 ## MCP 
 - [kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
