@@ -12,6 +12,7 @@ Let’s put Kotlin on the AI map! 💜🤖
 ## General LLM 
 - [langchain4j](https://github.com/langchain4j/langchain4j) - Java version of Langchain
 - [jlama](https://github.com/tjake/Jlama) - Jlama is a modern LLM inference engine for Java
+- [llm4j](https://github.com/llmjava/llm4j) - One API to access Large Language Models in Java
 
 ## LLM Provider API
 - [openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
@@ -22,6 +23,8 @@ Let’s put Kotlin on the AI map! 💜🤖
 
 ## Agent Builder
 - [langgraph4j](https://github.com/bsorrentino/langgraph4j) - Java version of [Langgraph](https://www.langchain.com/langgraph) which is built for work with [langchain4j](https://github.com/langchain4j/langchain4j)
+- [agent-flex](https://github.com/agents-flex/agents-flex) - Agents-Flex is an elegant LLM Application Framework like LangChain with Java
+  
 
 ## Utility 
 - [jtokkit](https://github.com/knuddelsgmbh/jtokkit) - JTokkit is a Java tokenizer library designed for use with OpenAI models.
