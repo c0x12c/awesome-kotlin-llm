@@ -11,6 +11,7 @@ Let’s put Kotlin on the AI map! 💜🤖
 
 ## General LLM 
 - [langchain4j](https://github.com/langchain4j/langchain4j) - Java version of Langchain
+- [jlama](https://github.com/tjake/Jlama) - Jlama is a modern LLM inference engine for Java
 
 ## LLM Provider API
 - [openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
