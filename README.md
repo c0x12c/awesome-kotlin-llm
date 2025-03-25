@@ -10,9 +10,11 @@ That’s why we’ve curated a collection of **innovative applications, librarie
 Let’s put Kotlin on the AI map! 💜🤖
 
 ## General LLM 
+- [kotlindl](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras
 - [langchain4j](https://github.com/langchain4j/langchain4j) - Java version of Langchain
 - [jlama](https://github.com/tjake/Jlama) - Jlama is a modern LLM inference engine for Java
 - [llm4j](https://github.com/llmjava/llm4j) - One API to access Large Language Models in Java
+
 
 ## LLM Provider API
 - [openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
@@ -25,6 +27,9 @@ Let’s put Kotlin on the AI map! 💜🤖
 - [langgraph4j](https://github.com/bsorrentino/langgraph4j) - Java version of [Langgraph](https://www.langchain.com/langgraph) which is built for work with [langchain4j](https://github.com/langchain4j/langchain4j)
 - [agent-flex](https://github.com/agents-flex/agents-flex) - Agents-Flex is an elegant LLM Application Framework like LangChain with Java
   
+## Application
+- [llms](https://github.com/yassineAbou/LLMS) - Discover the power of AI with our Kotlin Multiplatform app. Choose from the latest open-source text and image models to boost your creativity. Pick the model that fits you, create unique texts or images, and keep everything safe and in sync across your devices.
+
 
 ## Utility 
 - [jtokkit](https://github.com/knuddelsgmbh/jtokkit) - JTokkit is a Java tokenizer library designed for use with OpenAI models.
